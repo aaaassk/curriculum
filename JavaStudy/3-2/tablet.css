@@ -1,0 +1,67 @@
+@media screen and (max-width: 767px){
+    .top{
+        width:300px;
+    }
+    .left{
+        width:100px;
+    }
+    .right-U{
+        width:200px;
+    }
+    .X{
+        width:75px;
+    
+    }
+    .flexB{
+        width:125px;
+    }
+    .under{
+        width:300px;
+    }
+}
+
+@media screen and (max-width: 650px){
+body{
+    width:150px;
+}
+    
+.top{
+    width:100%;
+}
+
+.left{
+    width:100%;
+    float:none;
+}
+.right-T{
+    
+    display:block;
+    
+}
+.T{
+    width:100%;
+}
+.U{
+    width:100%;
+}
+.X{
+    width:100%;
+}
+
+.right-U{
+    width:100%;
+    float:none;
+    
+}
+.flexB{
+    width:100%;
+
+    
+}
+.under{
+    width:100%;
+    float:none;
+}
+}
+
+
