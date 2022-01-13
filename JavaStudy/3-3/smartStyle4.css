@@ -1,0 +1,41 @@
+@media screen and (max-width: 600px){
+
+    .top-navy{
+        width:200px;
+        height:400px;
+        float:center;
+        
+        
+    }
+
+    .top-box{
+        display:block;
+        width:60px;
+        height:150px;
+        position:relative;
+        left:70px;
+        padding-top:4px;
+        
+        
+        
+        
+    }
+    
+
+    .middle{
+        display:block;
+        
+    }
+    .middle-green{
+        width:200px;
+
+    }
+    .middle-right{
+        width:200px;
+    }
+
+    
+    .under{
+        width:200px;
+    }
+}
