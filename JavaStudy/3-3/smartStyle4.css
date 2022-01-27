@@ -15,11 +15,7 @@
         position:relative;
         left:70px;
         padding-top:4px;
-        
-        
-        
-        
-    }
+        }
     
 
     .middle{
@@ -30,12 +26,13 @@
         width:200px;
 
     }
-    .middle-right{
+    .middle-red{
         width:200px;
     }
 
     
     .under{
+
         width:200px;
     }
 }
