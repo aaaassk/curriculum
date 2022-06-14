@@ -32,7 +32,7 @@ WHERE quantity >
  INSERT INTO goods_table
 (goods_code, goods_name, price, update_day)
 VALUES
-('M001', 'マフラー', '4500','2022-06-01')
+('M001', 'マフラー', '4500',now())
  
 -- 7. 在庫テーブルの商品コード='S987'、かつ、店舗コード='EA01'に対して、「在庫数=10、更新日付=本日日付」で更新しなさい。※実行後のSELECT結果も貼付すること。
 -- [回答]
